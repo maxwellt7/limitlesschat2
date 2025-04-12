@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "env": {
+    "LIMITLESS_API_KEY": "sk-2a4a4d9e-23d2-4e5a-aba1-3e3809b4d287",
+    "OPENAI_API_KEY": "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",
+    "ANTHROPIC_API_KEY": "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"
+  }
+}
